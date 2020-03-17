@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* *{
+	margin:0;
+	padding: 0;
+} */
+h3{
+	background-color:#9BC4EB;	
+}
+span{
+	display: inline-block;
+	width:100px;
+}
+#fdiv{
+	margin-left:200px;
+}
+#ftd{
+	display: inline-block;
+	width:30px;
+}

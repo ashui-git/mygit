@@ -1,0 +1,21 @@
+@charset "UTF-8";
+#mytable{
+	border:1px solid black;
+	
+	//font-family:Arial;
+	//border-collapse:collapse;
+}
+#h3tr{
+	background-color:#D0DFEF;
+}
+#titledr>th{
+	border:1px solid black;
+	font-size:18px;
+	text-align:center;
+	height:25px;
+	padding-top:5px;
+	width:150px;
+}
+td{
+	border:1px solid black;
+}
